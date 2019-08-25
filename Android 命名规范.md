@@ -13,7 +13,7 @@
 -  根据不同的功能类型附带的后缀比如：MainActivity、HomeFragment、BaseView、ToastUtils 等。
 
 类类型	 | 类名
-:-: | :-: Activity	| xxxActivity.javaApplication |	xxxApplication.javaFragment	|xxxFragment.javaService	|xxxService.javaBroadcastReceiver	|xxxBroadcastReceiver.javaContentProvider|	xxxContentProvider.javaAdapter|	xxxAdapter.javaHandler	|xxxHandler.java接口实现类|	xxxImpl.javaPersenter	|xxxPersenter.java公共父类	|BaseActivity.java/BaseFragment.java/BaseAdapter 等Util 类	|Logger.java数据库类	|BaseSQLiteDBHelper.java
+:-: | :-: Activity	| xxxActivity.javaApplication |	xxxApplication.javaFragment	|xxxFragment.javaService	|xxxService.javaBroadcastReceiver	|xxxBroadcastReceiver.javaContentProvider|	xxxContentProvider.javaAdapter|	xxxAdapter.javaHandler	|xxxHandler.java接口实现类|	xxxImpl.javaPresenter	|xxxPresenter.java公共父类	|BaseActivity.java/BaseFragment.java/BaseAdapter 等Util 类	|Logger.java数据库类	|BaseSQLiteDBHelper.java
 
 
 
@@ -30,7 +30,7 @@
 -  下划线命名法，通常开头是控件的缩写，如：
 
 控件	|命名
-:-: | :-: Button	|btn_TextView	|tv_ImageView	|iv_ListView	|lv_RecyclerView	|rv_LinearLayout	|llayout_RelativeLayout	|rlayout_
+:-: | :-: Button	|btn_TextView	|tv_ImageView	|iv_ListView	|lv_RecyclerView	|rv_LinearLayout	|linearlayout_RelativeLayout	|relativelayout_
 
 
 
